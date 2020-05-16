@@ -1,0 +1,17 @@
+{
+  "name": "yarntest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "dev":"nodemon index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "moment": "^2.25.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "nodemon": "^2.0.4"
+  }
+}
